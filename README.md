@@ -168,6 +168,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Akash**  
+**Kanhaiya Mehta** 
 Time Series Forecasting & Applied Machine Learning Project  
 March 2026
